@@ -22,7 +22,7 @@ Language ststistics:
 -->
 <p>
 <a href="https://github.com/Olf0/sfos-upgrade">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
 <a href="https://github.com/Olf0/obexd-contentfilter-off">
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=obexd-contentfilter-off&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
@@ -31,10 +31,10 @@ Language ststistics:
 <br />
 <p>
 <a href="https://github.com/Olf0/mount-sdcard">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
 <a href="https://github.com/Olf0/crypto-sdcard">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
 </p> 
 <br />
