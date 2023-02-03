@@ -1,5 +1,7 @@
-# Saluton, Mondo! 👋
+
 <!--
+# Saluton, Mondo! 👋
+
 **Olf0/Olf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +19,7 @@ Language statistics:
 <a href="https://github.com/Olf0">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olf0&layout=compact&langs_count=10"></img>
 </a>
--->
+----------------------------------------------------------------------
 &nbsp;<br />
 <a href="https://github.com/Olf0/sfos-upgrade">
   <img align="center" width="48%" alt="Pinned repository: Olf0/sfos-upgrade" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
@@ -33,7 +35,7 @@ Language statistics:
 <a href="https://github.com/Olf0/crypto-sdcard">
   <img align="right" width="48%" alt="Pinned repository: Olf0/crypto-sdcard" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
 </a>
-
+-->
 &nbsp;<br />
 <a href="https://github.com/Olf0">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&line_height=25&theme=transparent&include_all_commits=true&count_private=true" />
