@@ -26,7 +26,6 @@ Language ststistics:
 <a href="https://github.com/Olf0/obexd-contentfilter-off">
   <img align="right" width="48%" alt="Pinned repository: Olf0/obexd-contentfilter-off" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=obexd-contentfilter-off&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
 </a>
-
 &nbsp;<br />
 
 <a href="https://github.com/Olf0/mount-sdcard">
@@ -35,7 +34,6 @@ Language ststistics:
 <a href="https://github.com/Olf0/crypto-sdcard">
   <img align="right" width="48%" alt="Pinned repository: Olf0/crypto-sdcard" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
 </a>
-
 &nbsp;<br />
 
 <a href="https://github.com/Olf0">
