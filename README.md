@@ -47,7 +47,7 @@ Language statistics:
 </a>
 
 &nbsp;<br />
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&disable_animations=false&line_height=25&cache_seconds=86399&theme=transparent&locale=en&include_all_commits=true&count_private=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats#readme">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&disable_animations=false&line_height=25&cache_seconds=86399&theme=transparent&locale=en&include_all_commits=true&count_private=true&hide=stars" />
 </a>
 
