@@ -31,10 +31,10 @@ Language ststistics:
 <br />
 <p>
 <a href="https://github.com/Olf0/mount-sdcard">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Olf0/crypto-sdcard">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
 </a>
 </p> 
 <br />
