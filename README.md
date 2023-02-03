@@ -1,4 +1,4 @@
-#### Saluton, Mondo! 👋
+# Saluton, Mondo! 👋
 
 <!--
 **Olf0/Olf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,28 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-More pinned repositories: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=MyRepo)](https://github.com/anuraghazra/github-readme-stats)
+Language ststistics:
+<a href="https://github.com/Olf0">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olf0&layout=compact&langs_count=10"></img>
+</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 -->
+<p>
+<a href="https://github.com/Olf0/sfos-upgrade">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Olf0/obexd-contentfilter-off">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=obexd-contentfilter-off&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
+</a>
+</p>
+<br />
+<p>
+<a href="https://github.com/Olf0/mount-sdcard">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Olf0/crypto-sdcard">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
+</a>
+</p> 
+<br />
+<p>
+<a href="https://github.com/Olf0">
+  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&line_height=25&theme=transparent&include_all_commits=true&count_private=true" />
+</a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&line_height=28&theme=transparent&include_all_commits=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olf0&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=obexd-contentfilter-off&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
-</a>
