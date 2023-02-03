@@ -21,25 +21,27 @@ Language ststistics:
 
 -->
 <section>
-<p>
+<div>
 <a href="https://github.com/Olf0/sfos-upgrade">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
 <a href="https://github.com/Olf0/obexd-contentfilter-off">
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=obexd-contentfilter-off&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
-</p>
+</div>
 </section>
+&nbsp;
 <section>
-<p>
+<div>
 <a href="https://github.com/Olf0/mount-sdcard">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=mount-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
 <a href="https://github.com/Olf0/crypto-sdcard">
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=crypto-sdcard&show_icons=true&show_owner=true&include_all_commits=true&count_private=true"></img>
 </a>
-</p> 
+</div> 
 </section>
+&nbsp;
 <p>
 <a href="https://github.com/Olf0">
   <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&line_height=25&theme=transparent&include_all_commits=true&count_private=true" />
