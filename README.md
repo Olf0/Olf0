@@ -1,5 +1,4 @@
 # Saluton, Mondo! 👋
-
 <!--
 **Olf0/Olf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Language ststistics:
+Language statistics:
 <a href="https://github.com/Olf0">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olf0&layout=compact&langs_count=10"></img>
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olf0&layout=compact&langs_count=10"></img>
 </a>
-
 -->
+&nbsp;<br />
 <a href="https://github.com/Olf0/sfos-upgrade">
   <img align="center" width="48%" alt="Pinned repository: Olf0/sfos-upgrade" src="https://github-readme-stats.vercel.app/api/pin/?username=Olf0&repo=sfos-upgrade&show_icons=true&show_owner=true&include_all_commits=true&count_private=true" />
 </a>
