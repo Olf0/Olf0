@@ -51,5 +51,5 @@ Language statistics:
 
 &nbsp;<br />
 <a href="https://github.com/anuraghazra/github-readme-stats#readme">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&disable_animations=true&cache_seconds=86399&theme=transparent&include_all_commits=true&hide=stars" />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&cache_seconds=86399&theme=transparent&disable_animations=true&include_all_commits=true&hide=stars" />
 </a>
