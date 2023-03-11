@@ -36,8 +36,8 @@ Language statistics:
 </a>
 
 &nbsp;<br />
-<a href="https://github.com/sailfishos-patches/patchmanager">
-  <img align="center" width="48%" alt="Pinned repository: sailfishos-patches/patchmanager" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-patches&repo=patchmanager&cache_seconds=86399&theme=transparent&show_owner=true" />
+<a href="https://github.com/sailfishos-chum/sailfishos-chum-repo-config">
+  <img align="center" width="48%" alt="Pinned repository: sailfishos-chum/sailfishos-chum-repo-config" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-chum&repo=sailfishos-chum-repo-config&cache_seconds=86399&theme=transparent&show_owner=true" />
 </a>
 <a href="https://github.com/sailfishos-chum/sailfishos-chum-gui-installer">
   <img align="right" width="48%" alt="Pinned repository: sailfishos-chum/sailfishos-chum-gui-installer" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-chum&repo=sailfishos-chum-gui-installer&cache_seconds=86399&theme=transparent&show_owner=true" />
@@ -47,13 +47,13 @@ Language statistics:
 <a href="https://github.com/sailfishos-chum/sailfishos-chum-gui">
   <img align="center" width="48%" alt="Pinned repository: sailfishos-chum/sailfishos-chum-gui" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-chum&repo=sailfishos-chum-gui&cache_seconds=86399&theme=transparent&show_owner=true" />
 </a>
-<a href="https://github.com/sailfishos-chum/sailfishos-chum-repo-config">
-  <img align="right" width="48%" alt="Pinned repository: sailfishos-chum/sailfishos-chum-repo-config" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-chum&repo=sailfishos-chum-repo-config&cache_seconds=86399&theme=transparent&show_owner=true" />
+<a href="https://github.com/sailfishos-chum/main">
+  <img align="right" width="48%" alt="Pinned repository: sailfishos-chum/main" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-chum&repo=main&cache_seconds=86399&theme=transparent&show_owner=true" />
 </a>
 
 &nbsp;<br />
-<a href="https://github.com/sailfishos-chum/main">
-  <img align="center" width="48%" alt="Pinned repository: sailfishos-chum/main" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-chum&repo=main&cache_seconds=86399&theme=transparent&show_owner=true" />
+<a href="https://github.com/sailfishos-patches/patchmanager">
+  <img align="center" width="48%" alt="Pinned repository: sailfishos-patches/patchmanager" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-patches&repo=patchmanager&cache_seconds=86399&theme=transparent&show_owner=true" />
 </a>
 
 &nbsp;<br />
