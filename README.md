@@ -55,6 +55,9 @@ Language statistics:
 <a href="https://github.com/sailfishos-patches/patchmanager">
   <img align="center" width="48%" alt="Pinned repository: sailfishos-patches/patchmanager" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-patches&repo=patchmanager&cache_seconds=86399&theme=transparent&show_owner=true" />
 </a>
+<a href="https://github.com/sailfishos-applications/filecase">
+  <img align="right" width="48%" alt="Pinned repository: sailfishos-applications/filecase" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-applications&repo=filecase&cache_seconds=86399&theme=transparent&show_owner=true" />
+</a>
 
 &nbsp;<br />
 <a href="https://github.com/anuraghazra/github-readme-stats#readme">
