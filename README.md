@@ -60,6 +60,14 @@ Language statistics:
 </a>
 
 &nbsp;<br />
+<a href="https://github.com/sailfishos-applications/flowplayer">
+  <img align="right" width="48%" alt="Pinned repository: sailfishos-applications/flowplayer" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-applications&repo=flowplayer&cache_seconds=86399&theme=transparent&show_owner=true" />
+</a>
+<a href="https://github.com/sailfishos-applications/daily-comics">
+  <img align="center" width="48%" alt="Pinned repository: sailfishos-applications/daily-comics" src="https://github-readme-stats.vercel.app/api/pin/?username=sailfishos-applications&repo=daily-comics&cache_seconds=86399&theme=transparent&show_owner=true" />
+</a>
+
+&nbsp;<br />
 <a href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Olf0&custom_title=olf's%20statistics&show_icons=true&cache_seconds=86399&theme=transparent&disable_animations=true&include_all_commits=true&hide=stars" />
 </a>
